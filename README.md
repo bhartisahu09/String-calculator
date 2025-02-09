@@ -24,7 +24,7 @@ A simple **String Calculator** that sums numbers from a string. It supports feat
 
    flutter pub get
 
-## Run the App
+### Run the App
       
    flutter run
 

@@ -18,7 +18,6 @@ A simple **String Calculator** that sums numbers from a string. It supports feat
 
    ```bash
    git clone https://github.com/bhartisahu09/String-calculator.git
-   cd string-calculator
 
 2. Install dependencies:
 
